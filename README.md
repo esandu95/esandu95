@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @esandu95
-- 🌱 I’m currently learning JavaScript
-- 👀 I’m a self-taught web developer in the making.
+- 👋 Hi, I’m Eduard.
+- 👀 I’m a self-taught web developer.
 
 
 <!---
